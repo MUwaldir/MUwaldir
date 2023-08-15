@@ -52,8 +52,8 @@ Soy un Profesional en Ingenierìa de Sistemas y Desarrollador Full Stack apasion
 ---
 
 ## Contáctame
-- LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/waldir-ruben-merjildo-ubaldo-819170215/)
-- Correo Electrónico: [Tu Correo Electrónico](muwaldir@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/waldir-ruben-merjildo-ubaldo-819170215/)
+- Correo Electrónico: [Correo Electrónico](muwaldir@gmail.com)
 
 ¡Estoy emocionado por conectar con profesionales y colaborar en futuros proyectos emocionantes!
 
