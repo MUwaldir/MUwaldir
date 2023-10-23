@@ -10,10 +10,12 @@ Soy un Profesional en Ingenierìa de Sistemas y Desarrollador Full Stack apasion
 - Django y Python
 - Redux para gestión de estado
 - PostgreSQL y MySQL para bases de datos
+- MongoDB
 - Node.js para backend
 - Bootstrap 5 y Material UI para diseño
 - Herramientas de versionado como Git
 - ReactJS
+- React Native 
 - Angular
 - figma y AdobeXD para diseño
 - HTML , CSS, SASS
