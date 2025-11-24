@@ -1,62 +1,111 @@
-# ¡Hola, soy WALDIR MERJILDO!
+# 👋 ¡Hola, soy Waldir ,Merjildo!
 
-## Descripción
-Soy un Profesional en Ingenierìa de Sistemas y Desarrollador Full Stack apasionado por crear soluciones tecnológicas integrales. Mi enfoque se centra en el diseño y desarrollo de arquitecturas frontend-backend, utilizando tecnologías como JavaScript (React, Angular, NodeJS), Python(Django). Estoy comprometido con la colaboración en proyectos y siempre estoy en busca de nuevas oportunidades para aprender y contribuir a la comunidad tecnológica.
-
----
-
-## Lenguajes y Tecnologías
-- JavaScript 
-- Django y Python
-- Redux para gestión de estado
-- PostgreSQL y MySQL para bases de datos
-- MongoDB
-- Node.js para backend
-- Bootstrap 5 y Material UI para diseño
-- Herramientas de versionado como Git
-- ReactJS
-- React Native 
-- Angular
-- figma y AdobeXD para diseño
-- HTML , CSS, SASS
-- sequelize(ORM)
+### 🚀 Senior Backend & Cloud Engineer  
+### 🛡️ Máster en Ciberseguridad (En curso) – Pentesting | ISO 27001 | Cloud Security (Azure)  
+### ☁️ AWS Practitioner – Arquitecturas Cloud (EC2, RDS, Lambda, ECR, CloudFront)  
+### 🧱 SaaS Builder – Arquitectura Limpia, Microservicios & DevOps  
 
 ---
 
-## Proyectos Destacados
-1. [Proyecto de E-comerce de Libros](https://book-front-mu.vercel.app/): Aplicaciòn web de E-comerce de libros .
-2. [Proyecto de API videogames](https://github.com/MUwaldir/PIvideogames/tree/master): Proyecto educativo de manejo de la API videogames con nodeJS, reactJS, PosgreSQL, sequelize, reduxJS, express.
+## 🧑‍💻 Sobre mí
+
+Soy un **Ingeniero de Software especializado en backend, cloud y seguridad**, centrado en el diseño y desarrollo de:
+
+- Arquitecturas escalables en **AWS**  
+- Backend profesional con **NestJS**  
+- Frontend SSR con **Next.js**  
+- Microservicios y servicios event-driven  
+- Aplicaciones móviles con **React Native**  
+- Despliegues profesionales con **Docker + ECR + EC2 + CI/CD**
+
+Actualmente curso una **Maestría en Ciberseguridad**, enfocada en pentesting, auditoría ISO 27001, análisis forense, cloud security y modelos IaaS/PaaS/SaaS en Azure.
+
+Mi objetivo es construir **plataformas SaaS robustas, seguras y escalables**.
 
 ---
 
+# 🛠️ Tecnologías y Herramientas
 
-## Educación
-### UNIVERSIDAD NACIONAL DEL CENTRO DEL PERÙ
-- Título obtenido bachiller en Ingeniería de Sistemas (2021)
+### 🧱 Backend & Arquitectura
+- **NestJS**, Node.js, Express  
+- Arquitectura Limpia, SOLID, DDD  
+- Microservicios / Monolitos escalables  
+- Webhooks, cronjobs, colas  
+- Seguridad avanzada: JWT, Cookies HttpOnly, roles
+
+### ☁️ Cloud & DevOps
+- **AWS:** EC2, RDS, S3, Lambda, CloudFront, ECR, IAM  
+- **Azure:** Seguridad cloud, governance, IaaS/PaaS/SaaS  
+- Docker & Docker Compose  
+- CI/CD con GitHub Actions  
+- Reverse proxy con Nginx  
+- Linux / Ubuntu Server
+
+### 🧑‍🎨 Frontend & Mobile
+- **Next.js (SSR)**  
+- React  
+- React Native (Expo)  
+- TailwindCSS  
+- Diseño UX/UI básico (Figma)
+
+### 🛡️ Ciberseguridad
+- Pentesting  
+- ISO 27001  
+- OWASP Top 10  
+- Gestión de incidentes  
+- IAM & Zero Trust  
+- Análisis forense
+
+### 📦 Bases de Datos
+- PostgreSQL, MySQL  
+- MongoDB  
+- Redis  
+- Prisma ORM, Sequelize
 
 ---
 
-## Certificaciones
-### DESARROLLO WEB PROFESIONAL
-- Universidad Continental Posgrado (2022)
-- Especialista en desarrollo Web profesional.
-  
-### DESARROLLO WEB CON PYTHON
-- Centro de Tecnologìas Àvanzadas de Manufactura - PUCP (2022)
-- Desarrollo web con Python (Django).
+# 🌟 Proyectos Destacados (SaaS + Product Based)
+
+### 🌱 **AgroMap – Plataforma de Gestión Agrícola**
+Fullstack SaaS para manejar terrenos, cultivos, métricas agrícolas y proyecciones.  
+**Stack:** NestJS, React, PostgreSQL (Prisma), Docker, AWS (EC2).  
+🔗 *Repositorio privado / Demo disponible bajo solicitud*
 
 ---
 
-
-## Hobbies e Intereses
-- Documentales y peliculas de tecnologia.
+### 🚚 **FleetRural – Sistema Logístico y Gestión de Vehículos**
+Control de viajes, gastos, recordatorios, mantenimientos y reportes.  
+**Stack:** NestJS, React, Prisma, PostgreSQL, Docker, AWS (ECR + EC2 + RDS).  
+🔗 *Repositorio privado / Demo disponible bajo solicitud*
 
 ---
 
-## Contáctame
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/waldir-ruben-merjildo-ubaldo-819170215/)
-- Correo Electrónico: [Correo Electrónico](muwaldir@gmail.com)
+### 🐶 **PetTrack – Gestión Veterinaria y Adopción de Mascotas**
+Dashboard web + aplicación móvil + backend escalable con autenticación segura.  
+**Stack:** Next.js SSR, NestJS, Postgresql,  AWS (EC2).  
+🔗 *Repositorio privado / Demo disponible bajo solicitud*
 
-¡Estoy emocionado por conectar con profesionales y colaborar en futuros proyectos emocionantes!
+---
 
-**¡Hagamos que las ideas cobren vida con el poder de la tecnología!**
+### 🧩 Otros proyectos destacados:
+- E-commerce de Libros (React + Node + PostgreSQL)  
+- API Videogames (React + Redux + Express + PostgreSQL)
+
+---
+
+# 🎓 Educación
+- **Maestría en Ciberseguridad** (Pentesting, ISO 27001, Arquitectura Cloud en Azure) – *En curso*  
+- Ingeniería de Sistemas – Universidad Nacional del Centro del Perú  
+- Certificaciones: Desarrollo Web Profesional, Python + Django, Cloud Computing (autoformación)
+
+---
+
+# 🔗 Contáctame
+- **LinkedIn:** https://www.linkedin.com/in/waldir-ruben-merjildo-ubaldo-819170215/ 
+- **Email:** wmerjildoubaldo@gmail.com  
+- **GitHub:** https://github.com/MUwaldir  
+
+---
+
+### ✨ *Construyamos soluciones que escalen, sean seguras y realmente impacten.*  
+
